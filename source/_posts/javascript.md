@@ -1,7 +1,14 @@
 ---
 title: Javascript学习笔记
 date: 2025-04-05 22:47:57
+description: Javascript 基础知识
+categories: 前端基础
+tags: [Javascript]
 ---
+
+这是我学习 Javascript 的笔记，记录了一些基础内容，包括了 JavaScript 基础、进阶、Web Api，以及 ES6 语法等内容。
+
+<!-- more -->
 
 # Javascript 基础
 
