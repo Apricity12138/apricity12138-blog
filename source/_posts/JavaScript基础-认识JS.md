@@ -3,6 +3,7 @@ title: JavaScript基础-认识JS
 date: 2025-04-06 09:42:15
 tags: [JavaScript]
 categories: JavaScript基础
+comments: true
 ---
 
 JavaScript 基础系列第一篇，主要介绍 JavaScript 是什么、JavaScript 的历史，以及 JavaScript 的主要功能。
