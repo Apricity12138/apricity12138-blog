@@ -283,7 +283,7 @@ follow_me:
 # Related popular posts
 # Dependencies: https://github.com/sergeyzwezdin/hexo-related-posts
 related_posts:
-  enable: true
+  enable: false
   icon: fa fa-signs-post
 
 # Post edit
@@ -377,7 +377,7 @@ back2top:
   # Back to top in sidebar.
   sidebar: false
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
 # Reading progress bar
 reading_progress:
@@ -401,7 +401,7 @@ bookmark:
 
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
-  enable: false
+  enable: true
   permalink: https://github.com/Apricity12138
 
 # ---------------------------------------------------------------
