@@ -1,5 +1,5 @@
 ---
-title: 404
+title: 找不到页面了(;′⌒`)
 date: 2025-04-06 00:17:47
 comments: false
 ---
