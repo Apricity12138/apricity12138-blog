@@ -4,8 +4,8 @@
 
 # Site
 title: Apricity's Blog
-subtitle: ""
-description: "一个小小前端学习者的个人博客"
+subtitle: 个人博客，前端笔记，学习记录，技术分享，JavaScript笔记
+description: 一个小小前端学习者的个人博客
 keywords:
 author: Apricity12138
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.apricity12138.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
