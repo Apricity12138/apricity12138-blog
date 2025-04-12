@@ -3,7 +3,7 @@ title: JavaScript进阶-垃圾回收机制和闭包
 tags: [JavaScript]
 comments: true
 date: 2025-04-11 22:07:08
-categories:　JavaScript进阶
+categories: JavaScript进阶
 ---
 
 本章的主要内容为JavaScript中两个重要的概念：垃圾回收机制和闭包。
