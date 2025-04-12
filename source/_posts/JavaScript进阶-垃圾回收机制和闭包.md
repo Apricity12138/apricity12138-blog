@@ -2,7 +2,7 @@
 title: JavaScript进阶-垃圾回收机制和闭包
 tags: [JavaScript]
 comments: true
-date: 2025-04-11 22:07:07
+date: 2025-04-11 22:07:08
 categories:　JavaScript进阶
 ---
 
