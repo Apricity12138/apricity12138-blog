@@ -8,7 +8,7 @@ categories: JavaScript进阶
 
 本章的主要内容为JavaScript中两个重要的概念：垃圾回收机制和闭包。
 
-<!--  more -->
+<!-- more -->
 
 ## 垃圾回收机制
 
